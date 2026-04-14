@@ -1,7 +1,6 @@
 # IQAP Project: Implementing Shor's Algorithm & QPE
 
-**Author:** Malek BENAMROUCHE  
-**Date:** April 2026
+**Author:** Malek BENAMROUCHE
 
 ## Overview
 
